@@ -12,6 +12,8 @@ Here I post my Jupyter Notebooks from Datacamp projects
 | [`Predicting Credit Card Approvals`](https://github.com/pabloleites/datacamp/blob/master/Predicting%20Credit%20Card%20Approvals/notebook.ipynb) | Build a machine learning model to predict if a credit card application will get approved. |
 | [`The GitHub History of the Scala Language`](https://github.com/pabloleites/datacamp/blob/master/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb) | Find the true Scala experts by exploring its development history in Git and GitHub. |
 | [`Risk and Returns: The Sharpe Ratio`](https://github.com/pabloleites/datacamp/blob/master/Risk%20and%20Returns%20The%20Sharpe%20Ratio/notebook.ipynb) | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
+| [`A Network Analysis of Game of Thrones`](https://github.com/pabloleites/datacamp/blob/master/A%20Network%20Analysis%20of%20Game%20of%20Thrones/notebook.ipynb) | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
+
 
 ## SQL Projects
 | Project | Description |
