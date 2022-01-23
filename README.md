@@ -14,6 +14,7 @@ Here I post my Jupyter Notebooks from Datacamp projects
 | [`Risk and Returns: The Sharpe Ratio`](https://github.com/pabloleites/datacamp/blob/master/Risk%20and%20Returns%20The%20Sharpe%20Ratio/notebook.ipynb) | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
 | [`A Network Analysis of Game of Thrones`](https://github.com/pabloleites/datacamp/blob/master/A%20Network%20Analysis%20of%20Game%20of%20Thrones/notebook.ipynb) | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
 | [`Exploring the Bitcoin Cryptocurrency Market`](https://github.com/pabloleites/datacamp/blob/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/notebook.ipynb) | Explore the market capitalization of Bitcoin and other cryptocurrencies. |
+| [`Name Game: Gender Prediction using Sound`](https://github.com/pabloleites/datacamp/blob/master/Name%20Game%20Gender%20Prediction%20using%20Sound/notebook.ipynb) | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
 
 ## SQL Projects
 | Project | Description |
