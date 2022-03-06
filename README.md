@@ -21,5 +21,4 @@ Here I post my Jupyter Notebooks from Datacamp projects
 | --- | --- |
 | [`Analyze International Debt Statistics`](https://github.com/pabloleites/datacamp/blob/master/Analyze%20International%20Debt%20Statistics/notebook.ipynb) | Write SQL queries to answer interesting questions about international debt using data from The World Bank.|
 | [`What and Where Are the World's Oldest Businesses?`](https://github.com/pabloleites/datacamp/blob/master/What%20and%20Where%20Are%20the%20World's%20Oldest%20Businesses/notebook.ipynb) | Use SQL data manipulation and joins to discover the oldest businesses around the world.|
-| [`When Was the Golden Age of Video Games?`](https://github.com/pabloleites/datacamp/blob/master/
-When%20Was%20the%20Golden%20Age%20of%20Video%20Games/notebook.ipynb) | Use joins and set theory to discover the best years for video games!|
+| [`When Was the Golden Age of Video Games?`](https://github.com/pabloleites/datacamp/blob/master/When%20Was%20the%20Golden%20Age%20of%20Video%20Games/notebook.ipynb) | Use joins and set theory to discover the best years for video games!|
